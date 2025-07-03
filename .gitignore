@@ -1,0 +1,6 @@
+/client
+/.dockerFiles/timescale/
+/.idea
+/dist/
+/send.sh
+/.dockerFiles/dbdata/
